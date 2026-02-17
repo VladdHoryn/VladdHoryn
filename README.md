@@ -73,6 +73,12 @@ Completed professional course:
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VladdHoryn&show_icons=true)
+
+---
+
 ## 📫 Contact
 
 📧 uzerok88@gmail.com  
