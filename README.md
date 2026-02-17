@@ -1,84 +1,88 @@
-# Hi, I'm Vladyslav Horyn 👋
+<h1 align="center">Hi, I'm Vladyslav Horyn 👋</h1>
 
-🎓 Software Engineering Student (3rd year)  
-💻 Junior Java Backend Developer  
-📍 Chernivtsi, Ukraine  
+<p align="center">
+  🎓 Software Engineering Student | 💻 Junior Java Backend Developer  
+</p>
+
+<p align="center">
+  <a href="mailto:uzerok88@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/владислав-горин-880494323/">LinkedIn</a> •
+  <a href="https://github.com/VladdHoryn">GitHub</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-Third-year Software Engineering student with strong focus on backend development using **Java and Spring Boot**.  
-Experienced in designing RESTful APIs, implementing authentication systems, and working with relational and NoSQL databases.
+Backend-focused Software Engineering student with strong hands-on experience building secure RESTful web applications using **Java and Spring Boot**.
 
-Actively seeking opportunities as:
-**Junior Java Developer | Junior Backend Developer**
+Experienced in:
+
+- Designing clean architecture (Controller → Service → Repository)
+- Implementing authentication & authorization with **Spring Security + JWT**
+- Working with relational and NoSQL databases
+- Building full-stack integrations
+
+🎯 Target roles: **Junior Java Developer | Junior Backend Developer**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-Java • SQL • JavaScript (basic) • C++ • C# • Python
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
-### 🔧 Backend
-Spring Boot • Spring MVC • Spring Data JPA • Hibernate  
-Spring Security • JWT
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄 Databases
-MySQL • PostgreSQL • MongoDB
-
-### 🌐 Web
-HTML • CSS • Bootstrap • Vue.js (basic)
-
-### ⚙ Tools
-Git • Maven • Docker (basic) • IntelliJ IDEA
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📌 Featured Project
+## ⭐ Featured Project
 
 ### 🔐 RESTful Dictionary Web Application
 
-**Stack:** Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, HTML, CSS, JavaScript
+Secure full-stack web application built with Java & Spring Boot.
 
-- Designed and implemented RESTful APIs
-- Built service layer and clean architecture structure
-- Implemented authentication & authorization using JWT
-- Designed relational database schema
-- Integrated backend with frontend
+**What I implemented:**
 
-👉 (Add project repository link here)
+- RESTful API architecture
+- JWT-based authentication system
+- Role-based authorization
+- Database schema design & entity relationships
+- Global exception handling
+- Validation layer
+- Backend–frontend integration
 
----
-
-## 📚 Education
-
-**Bachelor’s in Software Engineering**  
-Yuriy Fedkovych Chernivtsi National University  
-GPA: 95/100 (Scholarship holder)  
-2023 – Present
+👉 **Check the project here:**  
+[Dictionary Web Application Repository](PASTE_YOUR_PROJECT_LINK)
 
 ---
 
 ## 🏆 Achievement
 
-Completed professional course  
+Completed professional course:  
 **Advanced Java with Spring – SoftServe IT Academy**
 
 ---
 
-## 🤝 Soft Skills
+## 📊 GitHub Stats
 
-• Strong time management  
-• Clear communication  
-• Experience mentoring others  
-• High self-discipline  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladdHoryn&show_icons=true&theme=default)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 Email: uzerok88@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/владислав-горин-880494323/  
-💻 GitHub: https://github.com/VladdHoryn
+📧 uzerok88@gmail.com  
+📍 Chernivtsi, Ukraine
