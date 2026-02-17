@@ -64,21 +64,12 @@ Secure full-stack web application built with Java & Spring Boot.
 - Validation layer
 - Backend–frontend integration
 
-👉 **Check the project here:**  
-[Dictionary Web Application Repository](PASTE_YOUR_PROJECT_LINK)
-
 ---
 
 ## 🏆 Achievement
 
 Completed professional course:  
 **Advanced Java with Spring – SoftServe IT Academy**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladdHoryn&show_icons=true&theme=default)
 
 ---
 
